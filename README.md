@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sameer07x20
+- 👋 Hi, I’m Sameer Sayyad
 - 👀 I’m interested in designing websites
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on UI projects
 
 <!---
