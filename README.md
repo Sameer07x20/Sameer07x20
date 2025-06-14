@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sameer Sayyad
-- 👀 I’m interested in designing websites
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on UI projects
+- 👀 I am a Desktop service Engineer at OUInterested in exploring the vast ocean of tech
+- 🌱 Currently learning Cybersecurity
+- 💞️ Familiar with linux and Web development 
 
 <!---
 Sameer07x20/Sameer07x20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
