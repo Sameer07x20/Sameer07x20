@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameer Sayyad
-- 👀 I am a Desktop service Engineer at OUInterested in exploring the vast ocean of tech
+- 👀 Interested in exploring the vast ocean of tech
 - 🌱 Currently learning Cybersecurity
 - 💞️ Familiar with linux and Web development 
 
